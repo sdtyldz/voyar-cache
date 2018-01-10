@@ -1,4 +1,4 @@
-#Wordpress Voyar Cache Sistemi
+#Wordpress Voyar Cache Plugin
 
 <img src="https://i.hizliresim.com/D7oGz3.png">
 
